@@ -1,0 +1,138 @@
+.plus-icon{
+	font-size: 9px;
+}
+.navbar-brand{
+	margin-top: -17px;
+}
+.navbar{
+    margin-bottom: 0;
+    border-radius: 0;
+    padding-left: 0px;
+}
+.navbar-page{
+	padding: 8px 0 10px 100px;
+}
+.navbar-page a{
+	color: white !important;
+}
+.no{
+	color: black;
+}
+.l1{
+	color: red !important;
+}
+.dli a{
+	color: black !important;
+}
+
+.item{
+	background-image: url(104727.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 450px;
+}
+.carousel-inner{
+	height: 450px;
+}
+.item-inner{
+	height: 450px;
+	text-align: center;
+	display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+}
+.heading-text{
+	font-weight: bold;
+	color: white !important;
+	margin: 0;
+}
+.h2{
+	font-weight: bold;
+	color: red !important;
+}
+.para-text{
+	color: white !important;
+}
+.arw{ 
+    border: 3px solid white;
+    border-radius: 50%;
+    font-size: 20px !important;
+    text-shadow: none;
+    width: 45px;
+    height: 45px;
+
+}
+.nw-page{
+	padding-left: 35px;
+}
+.h4{
+	font-size: 20px;
+	color: black;
+	font-weight: bold;
+	text-align: center;
+}
+.p-page{
+	background-image: url(plane.jpg);
+	background-size: cover;
+	background-position: center center;
+	height: 310px;
+}
+.btn-lg{
+	border-color: red!important;
+	width:200px;
+}
+.r1{
+	color: red;
+}
+.w-page{
+	margin-top: 0px;
+}
+.input-group{
+	width:70% !important;
+}
+.nw3-page{
+	background-color: #181818;
+}
+.yl-page{
+	color: white;
+}
+.para-page{
+	color: white;
+}
+.btn-page{
+	background: #f5602f;
+	color: white;
+}
+.ft-page{
+	background-color: black;
+	margin-top: -20px;
+}
+.alignleft {
+	float: left;
+	color: white;
+}
+.q{
+	color:#0f74f7;
+}
+.alignright {
+	float: right;
+	color: white;
+}
+.bg-background{
+	background: #faedde;
+}
+.padding-additional{
+	padding: 40px 50px 40px 50px;
+}
+.btn-danger{
+	margin-left: 40px;
+}
